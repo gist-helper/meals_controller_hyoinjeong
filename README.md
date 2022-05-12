@@ -4,6 +4,7 @@
 카카오톡 채널 링크: [https://pf.kakao.com/_dxcBxlb](https://pf.kakao.com/_dxcBxlb)
 
 컨트롤러 소스코드 링크: [https://github.com/gist-helper/meals_controller_hyoinjeong](https://github.com/gist-helper/meals_controller_hyoinjeong)
+
 데이터 처리 소스코드 링크: https://github.com/gist-helper/meals_data-parsing_hyoinjeong
 
 컴퓨터공학도로서 다양한 개발 분야를 접하고자 작년 10월, 교내 앱 개발 스터디에 참여한 적이 있습니다. 스터디에서 1달 가량 웹 앱의 기초를 잡기 위해 Rails 공부를 마치고 실제 프로젝트를 통하여 공부의 깊이를 더하고자 ‘교내 식당 식단 알림 앱’을 기획하였습니다. 안드로이드 2명, 서버 2명으로 이루어진 팀에서 저는 서버 분야를 맡았습니다. 데이터베이스 과목에서 배운 내용을 기반으로 ERD를 그리는 것부터 시작하였습니다.
